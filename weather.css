@@ -1,0 +1,21 @@
+.body{
+    border-radius: 20px;
+    background-color: aqua;
+    width: 300px;
+    height: 300px;
+    margin-left: 500px;
+    text-align: center;
+
+}
+#input{
+    width: 250px;
+    border-radius: 10px;
+    height: 20px;
+    background-color: rgb(240, 238, 238);
+}
+#search-button{
+    margin-top: 20px;
+}
+#weather{
+    margin-top: 20px;
+}
